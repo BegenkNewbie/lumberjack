@@ -1,3 +1,3 @@
-module github.com/BegenkNewbie/lumberjack.v2
+module github.com/BegenkNewbie/lumberjack
 
 go 1.13
