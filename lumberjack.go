@@ -40,6 +40,7 @@ const (
 	compressSuffix   = ".gz"
 	defaultMaxSize   = 100
 	defaultNewLogDirPem  = 0755
+	defaultNewLogFilePem = 0755
 )
 
 // ensure we always implement io.WriteCloser
